@@ -2,5 +2,6 @@
 .env
 data/raw/
 data/processed/
+output/
 *.parquet
 .ipynb_checkpoints/
