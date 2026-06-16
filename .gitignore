@@ -5,3 +5,4 @@ data/processed/
 output/
 *.parquet
 .ipynb_checkpoints/
+live_demo_*.ipynb
